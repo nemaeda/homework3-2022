@@ -91,6 +91,7 @@ a.skip{
   transition: left 1s ease-out;
   z-index: 1;
   position: absolute;
+  top: 20px;
   left: -500px;
 }
 
@@ -177,7 +178,8 @@ img {
   }
 
   a.skip:focus {
-    bottom: -20px;
+    position: absolute;
+    top: 20px;
     left: 0px;
   }
 
