@@ -108,7 +108,7 @@ a.skip{
 /* Requirements 6-10 here: */
 .intro{
   background-image: url("../images/header.jpg");
-  background-color: #DDDDDD;
+  background-color: #707070;
   min-height: 400px;
   background-attachment: fixed;
   background-position: center;
@@ -161,11 +161,6 @@ img {
   nav li{
     margin-left: 5%;
     margin-right:0;
-  }
-
-  a.skip {
-    text-align: left;
-    top: 20px;
   }
 
   .container {
