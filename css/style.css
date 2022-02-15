@@ -177,7 +177,7 @@ img {
   }
 
   a.skip:focus {
-    top: 20px;
+    bottom: -20px;
     left: 0px;
   }
 
