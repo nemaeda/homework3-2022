@@ -182,8 +182,9 @@ img {
   }
 
   a.skip:focus {
-    visibility: visible;
+    display: inline;
     top: 20px;
+    right: 0px;
   }
 
   /* Requirements 12-15 here: */
